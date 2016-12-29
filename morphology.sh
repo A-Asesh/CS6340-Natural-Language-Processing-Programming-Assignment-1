@@ -1,0 +1,1 @@
+python morphology.py dict.txt rules.txt test.txt > morphologynew.txt
